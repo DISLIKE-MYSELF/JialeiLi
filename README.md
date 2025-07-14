@@ -24,7 +24,6 @@
 - Applied LoRA to fine-tune a base LLM and designed task-specific prompts  
 - Improved test accuracy from 73% to **88%** on symbolic logic tasks  
 - Wrote experiment report, evaluated micro-F1 and generalization robustness  
-🔗 [Code](#) · [Report](#) · [Prompt Examples](#)
 
 ---
 
@@ -35,7 +34,6 @@
 - Applied HSV shift, MixUp, and mosaic augmentation to boost performance  
 - Achieved **Micro-F1 = 0.8748**, recall = 0.8885 on Tianchi CV competition  
 - Built multi-stage pipeline with post-processing and structured output  
-🔗 [Code](#) · [Demo Image](#) · [Leaderboard](#)
 
 ---
 
@@ -46,7 +44,7 @@
 - Frontend: React + TypeScript; Backend: Spring Boot + MySQL  
 - Deployed with Docker Compose for one-click launch; used Git for CI/CD  
 - Managed multi-branch collaboration and solved cross-service conflict  
-🔗 [GitHub](https://dislike-myself.github.io/JialeiLi/) · [System Architecture](#)
+🔗 [GitHub](https://github.com/DISLIKE-MYSELF/shopping-project.git)
 
 ---
 
