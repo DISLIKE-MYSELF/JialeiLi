@@ -46,7 +46,7 @@
 - Frontend: React + TypeScript; Backend: Spring Boot + MySQL  
 - Deployed with Docker Compose for one-click launch; used Git for CI/CD  
 - Managed multi-branch collaboration and solved cross-service conflict  
-🔗 [GitHub](#) · [System Architecture](#)
+🔗 [GitHub](https://dislike-myself.github.io/JialeiLi/) · [System Architecture](#)
 
 ---
 
