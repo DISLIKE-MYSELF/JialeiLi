@@ -24,6 +24,7 @@
 - Applied LoRA to fine-tune a base LLM and designed task-specific prompts  
 - Improved test accuracy from 73% to **88%** on symbolic logic tasks  
 - Wrote experiment report, evaluated micro-F1 and generalization robustness  
+🔗 [GitHub](https://github.com/DISLIKE-MYSELF/LoRA-Qwen.git)
 
 ---
 
@@ -34,9 +35,14 @@
 - Applied HSV shift, MixUp, and mosaic augmentation to boost performance  
 - Achieved **Micro-F1 = 0.8748**, recall = 0.8885 on Tianchi CV competition  
 - Built multi-stage pipeline with post-processing and structured output  
-
+🔗 [GitHub](https://github.com/DISLIKE-MYSELF/cv-detection.git)
 ---
 
+### BYD AI Test Object Detction with YOLOv8 
+
+🔗 [GitHub](https://github.com/DISLIKE-MYSELF/-.git)
+
+---
 ### 🛍️ Shopping Microservice System (DevOps Project)
 
 > 📌 *Containerized e-commerce platform using Docker Compose + Spring Boot*  
